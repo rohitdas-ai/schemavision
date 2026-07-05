@@ -9,12 +9,6 @@ SchemaVision is a modern Figma plugin that bridges the gap between design and fr
 
 Front-end developers and UI/UX designers can hook their React, Flutter, Swift, or web apps directly to these live HTTPS endpoints (`/products`, `/users`, etc.) in seconds, without writing a single line of backend database or server routing code.
 
----
-
-## Branding Assets
-
-<img src="logo.jpg" width="128" height="128" alt="SchemaVision Logo" />
-
 ![SchemaVision Banner](thumbnail.jpg)
 
 ![SchemaVision Infographic](carousel_1.jpg)
