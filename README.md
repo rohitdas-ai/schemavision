@@ -13,13 +13,10 @@ Front-end developers and UI/UX designers can hook their React, Flutter, Swift, o
 
 ## Branding Assets
 
-### Logo Icon
-![SchemaVision Logo](logo.jpg)
+<img src="logo.jpg" width="128" height="128" alt="SchemaVision Logo" />
 
-### Marketplace Banner
 ![SchemaVision Banner](thumbnail.jpg)
 
-### Infographic Step-by-Step
 ![SchemaVision Infographic](carousel_1.jpg)
 
 ---
